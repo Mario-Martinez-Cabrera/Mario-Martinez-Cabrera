@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Mario Martinez 👋
+
+I'm a former mathematics instructor and aspiring software engineer. 
+
+- 🔭 I’m currently working on finishing the Meta Back-End Developer Professional Certificate
+- 🌱 I’m currently learning Django Rest Frameworks and APIs 
+- ⚡ Fun fact: I independently proved several known theorems in Rosa Type Graph Labelings
+- 🤔 I’m looking for help with networking in the software engineer sector. I welcome anyone who would like to mentor me
 
 <!--
 **Mario-Martinez-Cabrera/Mario-Martinez-Cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
